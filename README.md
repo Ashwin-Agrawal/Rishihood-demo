@@ -1,2 +1,2 @@
 # Rishihood-demo
-This is my second git repository, Autho- Ashwin Agrawal
+This is my second git repository, Author- Ashwin Agrawal
